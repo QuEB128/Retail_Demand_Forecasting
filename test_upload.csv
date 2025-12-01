@@ -1,0 +1,9 @@
+Transaction_ID,Date,Product_Category,Quantity,Unit_Price,Total_Sales,Profit,Region,Store_ID,Payment_Method
+1,2024-01-01,Electronics,5,29.99,149.95,45.00,North,S001,Credit Card
+2,2024-01-02,Groceries,12,3.50,42.00,12.60,South,S002,Cash
+3,2024-01-03,Clothing,3,45.00,135.00,40.50,East,S003,Card
+4,2024-01-04,Electronics,8,15.75,126.00,37.80,West,S004,Digital
+5,2024-01-05,Home & Garden,4,89.99,359.96,107.99,North,S005,Cash
+6,2024-01-06,Groceries,15,2.99,44.85,13.45,South,S002,Credit Card
+7,2024-01-07,Electronics,6,24.50,147.00,44.10,East,S001,Card
+8,2024-01-08,Clothing,2,55.00,110.00,33.00,West,S003,Digital
